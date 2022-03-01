@@ -1,0 +1,23 @@
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.exe.config
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.exe
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.pdb
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csprojAssemblyReference.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\Interop.MLApp.dll
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csproj.ResolveComReference.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.Form1.resources
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.Properties.Resources.resources
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csproj.GenerateResource.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csproj.CoreCompileInputs.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.exe
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.pdb
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.exe.config
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.exe
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\bin\Debug\SDPPS.pdb
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csprojAssemblyReference.cache
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\Interop.MLApp.dll
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csproj.ResolveComReference.cache
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.Form1.resources
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.Properties.Resources.resources
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.csproj.GenerateResource.cache
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.exe
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\SDPPS\SDPPS\obj\Debug\SDPPS.pdb

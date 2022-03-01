@@ -1,0 +1,29 @@
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe.config
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.pdb
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csprojAssemblyReference.cache
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Form1.resources
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Properties.Resources.resources
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csproj.GenerateResource.cache
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csproj.CoreCompileInputs.cache
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.exe
+C:\Users\PJ2Q\source\repos\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.pdb
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe.config
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.pdb
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csprojAssemblyReference.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Form1.resources
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Properties.Resources.resources
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csproj.GenerateResource.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csproj.CoreCompileInputs.cache
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.exe
+C:\Users\PJ2Q\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.pdb
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe.config
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.exe
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\bin\Debug\Edit_n_Export_3signals.pdb
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csprojAssemblyReference.cache
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Form1.resources
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.Properties.Resources.resources
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.csproj.GenerateResource.cache
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.exe
+D:\usuarios\IPN OneDrive\OneDrive - Instituto Politecnico Nacional\mBeta\ProgramasVisual\Edit_n_Export_3signals\Edit_n_Export_3signals\obj\Debug\Edit_n_Export_3signals.pdb
